@@ -13,7 +13,7 @@
   "dependencies": {
     "@microsoft/microsoft-graph-client": "1.0.0",
     "cookie-parser": "1.4.0",
-    "cookies": "0.7.3",
+    "cookies": "0.9.1",
     "express": "4.14.0",
     "passport": "0.4.0",
     "passport-azure-ad": "3.0.12"
